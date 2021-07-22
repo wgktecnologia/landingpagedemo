@@ -55881,7 +55881,7 @@ s=s.x
 s=r.cB(0,s==null?H.ao():s)
 return T.fD(T.DH(H.a([L.SM(C.eV,C.j,14),T.fD(q,q,5),M.kT(a,3,C.e6,$.aiC(),q)],t.E),C.di,C.bX),q,s.a*0.45)}}
 R.Qv.prototype={
-$2:function(a,b){var s,r,q,p,o,n,m,l=null,k=X.a87(C.as,new H.mx(P.aH(222,0,0,0),C.cg),C.eB,new L.jq("assets/images/ciclismo-capa.jpg",l,l))
+$2:function(a,b){var s,r,q,p,o,n,m,l=null,k=X.a87(C.as,new H.mx(P.aH(222,0,0,0),C.cg),C.eB,new L.jq("images/ciclismo-capa.jpg",l,l))
 $.b3()
 s=$.aN()
 r=s.gck()
@@ -55895,7 +55895,7 @@ o=s.x
 p=p.cB(0,o==null?H.ao():o)
 o=s.gck()
 n=s.x
-p=T.acD(C.as,U.a8A("assets/images/hand-3.png",C.d9,C.eB,p.b*0.7,o.cB(0,n==null?H.ao():n).a*0.9),C.bG)
+p=T.acD(C.as,U.a8A("images/hand-3.png",C.d9,C.eB,p.b*0.7,o.cB(0,n==null?H.ao():n).a*0.9),C.bG)
 o=s.gck()
 n=s.x
 o=o.cB(0,n==null?H.ao():n)
@@ -55911,7 +55911,7 @@ s=this.a
 return T.zK(H.a([q,M.eN(C.as,T.aes(C.e9,H.a([s.cv("Melhora da\nrespira\xe7\xe3o"),s.cv("Sem sensa\xe7\xe3o\nde cansa\xe7o"),s.cv("Mais capacidade\npara malhar"),s.cv("Fim da vulnerabilidade\n\xe0 bact\xe9rias"),s.cv("Recupera\xe7\xe3o r\xe1pida\ndos m\xfasculos"),s.cv("Muito mais\nenergia")],m),C.h5,C.k,C.h4,8,8),l,l,l,l,new V.aT(5,8,5,8),k.a),M.eN(l,M.kT(u.m,l,l,$.aiB(),l),l,l,l,l,C.nj,l),C.y9],m),C.b9,C.bX)},
 $S:384}
 N.AF.prototype={
-P:function(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=X.a87(C.cf,new H.mx(P.aH(191,0,0,0),C.cg),C.ci,new L.jq("assets/images/ciclismo-capa.jpg",i,i))
+P:function(a,b){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=X.a87(C.cf,new H.mx(P.aH(191,0,0,0),C.cg),C.ci,new L.jq("images/ciclismo-capa.jpg",i,i))
 $.b3()
 s=$.aN()
 r=s.gck()
@@ -55920,7 +55920,7 @@ r=r.cB(0,q==null?H.ao():q)
 q=s.gck()
 s=s.x
 s=q.cB(0,s==null?H.ao():s)
-q=T.Qh(U.a8A("assets/images/hand-3.png",C.cf,C.ci,i,i),1)
+q=T.Qh(U.a8A("images/hand-3.png",C.cf,C.ci,i,i),1)
 p=M.kT("O ESCUDO CONTRA AS BACT\xc9RIAS E V\xcdRUS",2,C.aL,$.aiD(),C.ax)
 o=M.kT("AUMENTE A IMUNIDADE DE FORMA PODEROSA",2,C.aL,$.aiE(),C.ax)
 n=M.kT(u.m,3,C.aL,$.aiF(),C.e4)
@@ -55931,13 +55931,13 @@ return M.eN(i,T.DH(H.a([q,T.Qh(T.zK(H.a([new T.jA(1,C.cx,p,i),new T.jA(1,C.cx,o,
 cv:function(a){var s=null
 return T.DH(H.a([L.SM(C.eV,C.j,17),T.fD(s,s,5),M.kT(a,s,s,$.aiG(),s)],t.E),C.b9,C.bX)}}
 V.AG.prototype={
-P:function(a,b){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=X.a87(C.cf,new H.mx(P.aH(217,0,0,0),C.cg),C.ci,new L.jq("assets/images/ciclismo-capa.jpg",h,h))
+P:function(a,b){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=X.a87(C.cf,new H.mx(P.aH(217,0,0,0),C.cg),C.ci,new L.jq("images/ciclismo-capa.jpg",h,h))
 $.b3()
 s=$.aN()
 r=s.gck()
 q=s.x
 r=r.cB(0,q==null?H.ao():q)
-q=T.Qh(U.a8A("assets/images/hand-3.png",C.cf,C.ci,h,h),1)
+q=T.Qh(U.a8A("images/hand-3.png",C.cf,C.ci,h,h),1)
 p=L.vq("O ESCUDO CONTRA AS BACT\xc9RIAS E V\xcdRUS",h,h,2,C.aL,h,h,h,$.aiH(),C.ax,h,h)
 o=L.vq("AUMENTE A IMUNIDADE DE FORMA PODEROSA",h,h,2,C.aL,h,h,h,$.aiI(),C.ax,h,h)
 n=L.vq(u.m,h,h,h,C.aL,h,h,h,$.aiJ(),C.e4,h,h)
